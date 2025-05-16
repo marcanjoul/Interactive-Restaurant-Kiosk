@@ -32,11 +32,17 @@ A C-based self-ordering restaurant simulation that mimics a digital kiosk system
 
 ## 📁 Project Structure
 ├── main.c # Main flow: user interface, flow control, payment
+
 ├── menu.c # Menu handling: reading CSV, displaying items
+
 ├── menu.h # Header for menu functions and constants
+
 ├── order.c # Linked list order logic: add, remove, update, view
+
 ├── order.h # Header for order functions and struct definitions
+
 ├── menu.csv # Menu data file (included in repo)
+
 └── README.md # You're here!
 
 ## 🔧 How to Compile & Run
