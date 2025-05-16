@@ -56,7 +56,7 @@ A C-based self-ordering restaurant simulation that mimics a digital kiosk system
   ./kiosk
 Make sure menu.csv is in the same directory!
 
-- 🎯 **Learning Outcomes**
+## 🎯 **Learning Outcomes**
 
 This project demonstrates:
   Proficiency in C programming
@@ -64,8 +64,8 @@ This project demonstrates:
   Modularization of code into header/source files
   Understanding of linked lists, input validation, and formatted output
   Real-world application design through UI flow and payment logic
-
-- 🚧 **Limitations & Future Features**
+  
+##🚧 **Limitations & Future Features**
 
 This is a simulation — it doesn't:
   Persist order data
@@ -78,10 +78,11 @@ This is a simulation — it doesn't:
 
 
 
-- ⭐ **Why This Project?**
+##⭐ **Why This Project?**
 
   Although not solving a real-world problem directly, this project shines as a portfolio-quality demonstration of low-level logic, modular architecture, and interactive user design — all built in C
-- 👨‍💻 **Author**
+  
+##👨‍💻 **Author**
 
   Mark Anjoul
   Computer Science Student · Self-driven coder · Project-based learner
