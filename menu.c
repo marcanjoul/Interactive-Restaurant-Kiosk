@@ -16,7 +16,11 @@ void readCSV()
         printf("File can't be opened.\n");
         return;
     }
+    char line[DESC_LEN + NAME_LEN + 50]; // Buffer for a single line
 
+    // Skip the header line
+    fgets(line, sizeof(line), CSV);
+    
     while (fscanf(CSV, " %[^,],%[^,],\"%[^\"]\",%lf\n",
                   menu[totalItems].category,
                   menu[totalItems].name,
