@@ -1,6 +1,8 @@
+# C-Line-interactive-self-ordering-restaurant-kiosk
+  A C-based self-ordering restaurant simulation that mimics a digital kiosk system for customers. This interactive console program allows users to view a structured menu, place   orders, update or remove items, and proceed through a realistic payment flow — all within a clean terminal interface.
+
 ## Table of Contents
 
-- [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [How to Compile & Run](#how-to-compile--run)
@@ -10,13 +12,7 @@
 - [Author](#author)
 - [License](#license)
 
-  # C-Line-interactive-self-ordering-restaurant-kiosk
-# 🍽️ Interactive Restaurant Kiosk
-
-A C-based self-ordering restaurant simulation that mimics a digital kiosk system for customers. This interactive console program allows users to view a structured menu, place orders, update or remove items, and proceed through a realistic payment flow — all within a clean terminal interface.
-
 ---
-
 ## Features
 
 - 📋 **Full Menu Navigation**: Organized by Appetizers, Main Dishes, Beverages, and Desserts.
