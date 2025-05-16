@@ -65,7 +65,7 @@ This project demonstrates:
   Understanding of linked lists, input validation, and formatted output
   Real-world application design through UI flow and payment logic
   
-##🚧 **Limitations & Future Features**
+## 🚧 **Limitations & Future Features**
 
 This is a simulation — it doesn't:
   Persist order data
@@ -76,13 +76,11 @@ This is a simulation — it doesn't:
   Add order history or timestamps
   GUI version (CLI → mobile app someday!)
 
-
-
-##⭐ **Why This Project?**
+## ⭐ **Why This Project?**
 
   Although not solving a real-world problem directly, this project shines as a portfolio-quality demonstration of low-level logic, modular architecture, and interactive user design — all built in C
   
-##👨‍💻 **Author**
+## 👨‍💻 **Author**
 
   Mark Anjoul
   Computer Science Student · Self-driven coder · Project-based learner
